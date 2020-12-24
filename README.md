@@ -22,4 +22,9 @@
     1. `app.js` still not loading
 1. add IDE temp folder `.idea/` to `.gitignore`
 1. add/commit/push everything since index page is being served how I want it
-    1. 
+    1. `git add .`
+    1. `git commit -m "index page being served as template"`
+    1. `git push`
+1. get annoyed with restarting flask app, find page about disabling cache
+    1. https://stackoverflow.com/questions/7078953/how-to-force-chromes-script-debugger-to-reload-javascript
+1. get data to load in javascript console after fixing a few names
