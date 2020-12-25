@@ -16,9 +16,18 @@
         </div>
     </div>
 
-    <div id="firstId"></div>
+    <div id="table1"></div>
+
+    <div class="jumbotron text-center">
+        <ol>
+        {% for name in data2 %}
+            <li>{{ name }}</li>
+        {% endfor %}
+        </ol>
+    </div>
+
     <script src="https://d3js.org/d3.v5.min.js"></script>
-    <script src="/javascript/app.js"></script>
+    <script type="module" src="/javascript/app.js"></script>
 </body>
 
 </html>

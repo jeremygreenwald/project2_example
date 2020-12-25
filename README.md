@@ -28,3 +28,11 @@
 1. get annoyed with restarting flask app, find page about disabling cache
     1. https://stackoverflow.com/questions/7078953/how-to-force-chromes-script-debugger-to-reload-javascript
 1. get data to load in javascript console after fixing a few names
+1. add/commit/push
+1. decide to create dynamic list from `app.js`
+    1. rename data route
+    1. rename empty `div` element
+1. add d3 select/append statements to create `ul` and `li` elements based on `/data1` route
+1. add template ordered list
+1. refactor data methods out of the app file
+1. refactor route definitions out of js file
