@@ -1,5 +1,5 @@
 
-
+# fake function that mocks a call to an external data source
 def get_data1():
     return {
         '1': 11,
@@ -8,5 +8,6 @@ def get_data1():
     }
 
 
+# fake function that mocks a call to an external data source
 def get_data2():
     return {'onetwo': 34}

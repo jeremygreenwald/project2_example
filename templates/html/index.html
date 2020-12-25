@@ -10,14 +10,10 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="row img-gallery">
-            <!-- Thumbnails go here: -->
-        </div>
-    </div>
-
+    <!-- div element to add to from js -->
     <div id="table1"></div>
 
+    <!-- template html to be rendered by flask app -->
     <div class="jumbotron text-center">
         <ol>
         {% for name in data2 %}
@@ -26,6 +22,8 @@
         </ol>
     </div>
 
+    <!-- link to static page, note automatically served from flask app,
+         no explicit route has to be written -->
     <a href="html/second_page.html">Link to another page</a>
 
     <script src="https://d3js.org/d3.v5.min.js"></script>

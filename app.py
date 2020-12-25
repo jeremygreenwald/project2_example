@@ -7,11 +7,13 @@ app = Flask(__name__,
             template_folder='templates')
 
 
+# serve a dynamic html file from the flask app
 @app.route('/')
 def hello_world():
     return render_template('html/index.html', data2=get_data2())
 
 
+# serve data from the flask app
 @app.route('/data1')
 def data1():
     return jsonify(get_data1())
