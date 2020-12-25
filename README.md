@@ -36,3 +36,6 @@
 1. add template ordered list
 1. refactor data methods out of the app file
 1. refactor route definitions out of js file
+1. git add/commit/push
+1. add a static html page to index
+1. git add/commit/push
