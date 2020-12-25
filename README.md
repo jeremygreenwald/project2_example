@@ -39,3 +39,7 @@
 1. git add/commit/push
 1. add a static html page to index
 1. git add/commit/push
+1. add screenshot of IDE layout to repo
+    
+My IDE layout
+![My IDE layout](my_ide.png)
