@@ -1,3 +1,9 @@
+# Creating a flask app
+This repo contains an outline of a flask app, html, and js code 
+for a webapp that serves static html, renders dynamic html, and serves javascript 
+files. It does not contain any visualizations or database access.
+
+### rough step-by-step list of actions taken during development
 1. update IDE
 1. find starter example
     1. https://flask.palletsprojects.com/en/1.1.x/quickstart/
@@ -41,5 +47,7 @@
 1. git add/commit/push
 1. add screenshot of IDE layout to repo
     
-My IDE layout
+### My IDE layout
+This is a screenshot of the PyCharm layout I used for most 
+of the development work.
 ![My IDE layout](my_ide.png)
