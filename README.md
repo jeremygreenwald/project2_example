@@ -13,7 +13,7 @@ files. It does not contain any visualizations or database access.
     1. git clone git@github.com:jeremygreenwald/project2_example.git
 1. create README.md from scratch file
 1. copy example from quickstart
-1. run `flash run` and open browser to verify it works
+1. run `flask run` and open browser to verify it works
 1. create `static/javascript` and `static/html` directories
 1. copy starter index.html from class material
     1. https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-data-pt-08-2020-u-c/-/tree/master/01-Lesson-Plans/16-D3/1/Activities/02-Ins_Complex_Data
