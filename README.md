@@ -46,6 +46,7 @@ files. It does not contain any visualizations or database access.
 1. add a static html page to index
 1. git add/commit/push
 1. add screenshot of IDE layout to repo
+1. refactor exact call to `Flask` constructor and mock data functions import
     
 ### My IDE layout
 This is a screenshot of the PyCharm layout I used for most 
